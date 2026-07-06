@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\LucTrungHieu\\GameoConsoleApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FF724DA-2A42-4310-A109-BAB799B0FA30}|GameoConsoleApp\\GameoConsoleApp.csproj|d:\\luctrunghieu\\gameoconsoleapp\\gameoconsoleapp\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF724DA-2A42-4310-A109-BAB799B0FA30}|GameoConsoleApp\\GameoConsoleApp.csproj|solutionrelative:gameoconsoleapp\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF724DA-2A42-4310-A109-BAB799B0FA30}|GameoConsoleApp\\GameoConsoleApp.csproj|d:\\luctrunghieu\\gameoconsoleapp\\gameoconsoleapp\\monsta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF724DA-2A42-4310-A109-BAB799B0FA30}|GameoConsoleApp\\GameoConsoleApp.csproj|solutionrelative:gameoconsoleapp\\monsta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FF724DA-2A42-4310-A109-BAB799B0FA30}|GameoConsoleApp\\GameoConsoleApp.csproj|d:\\luctrunghieu\\gameoconsoleapp\\gameoconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FF724DA-2A42-4310-A109-BAB799B0FA30}|GameoConsoleApp\\GameoConsoleApp.csproj|solutionrelative:gameoconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Monsta.cs",
+              "DocumentMoniker": "D:\\LucTrungHieu\\GameoConsoleApp\\GameoConsoleApp\\Monsta.cs",
+              "RelativeDocumentMoniker": "GameoConsoleApp\\Monsta.cs",
+              "ToolTip": "D:\\LucTrungHieu\\GameoConsoleApp\\GameoConsoleApp\\Monsta.cs*",
+              "RelativeToolTip": "GameoConsoleApp\\Monsta.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T04:14:15.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\LucTrungHieu\\GameoConsoleApp\\GameoConsoleApp\\Player.cs",
+              "RelativeDocumentMoniker": "GameoConsoleApp\\Player.cs",
+              "ToolTip": "D:\\LucTrungHieu\\GameoConsoleApp\\GameoConsoleApp\\Player.cs*",
+              "RelativeToolTip": "GameoConsoleApp\\Player.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T04:11:18.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LucTrungHieu\\GameoConsoleApp\\GameoConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "GameoConsoleApp\\Program.cs",
               "ToolTip": "D:\\LucTrungHieu\\GameoConsoleApp\\GameoConsoleApp\\Program.cs",
               "RelativeToolTip": "GameoConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T01:34:45.588Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameoConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ace11cbbd2eba0c6fabab24df6f19a2b862f739d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7675f7351c95e9bf17a14c4694b73f6f99b5c975")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameoConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameoConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
