@@ -1,0 +1,15 @@
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\bin\Debug\net8.0\GameoConsoleApp.exe
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\bin\Debug\net8.0\GameoConsoleApp.deps.json
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\bin\Debug\net8.0\GameoConsoleApp.runtimeconfig.json
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\bin\Debug\net8.0\GameoConsoleApp.dll
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\bin\Debug\net8.0\GameoConsoleApp.pdb
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\obj\Debug\net8.0\GameoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\obj\Debug\net8.0\GameoConsoleApp.AssemblyInfoInputs.cache
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\obj\Debug\net8.0\GameoConsoleApp.AssemblyInfo.cs
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\obj\Debug\net8.0\GameoConsoleApp.csproj.CoreCompileInputs.cache
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\obj\Debug\net8.0\GameoConsoleApp.dll
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\obj\Debug\net8.0\refint\GameoConsoleApp.dll
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\obj\Debug\net8.0\GameoConsoleApp.pdb
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\obj\Debug\net8.0\GameoConsoleApp.genruntimeconfig.cache
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\obj\Debug\net8.0\ref\GameoConsoleApp.dll
+D:\LucTrungHieu\GameoConsoleApp\GameoConsoleApp\obj\Debug\net8.0\GameoConsoleApp.sourcelink.json
