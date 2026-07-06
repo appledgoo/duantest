@@ -5,3 +5,5 @@
 ## NOte
 
 Đây là một dự án nhỏ, dùng để test git và thử lệnh C#
+
+mibi tôi sẽ xóa hoặc private dự án này
