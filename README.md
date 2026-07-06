@@ -3,9 +3,9 @@
 đây là một game khá là cơ bản được tạo bởi tôi
 
 ## Cấu Trúc File
-Program.cs: Quản lý vòng lặp trận đấu.
-Player.cs: Quản lý thuộc tính và hành động của Người chơi.
-Monster.cs: Quản lý thuộc tính của Quái vật.
+Program.cs: Quản lý vòng lặp trận đấu.\
+Player.cs: Quản lý thuộc tính và hành động của Người chơi.\
+Monster.cs: Quản lý thuộc tính của Quái vật.\
 
 ## NOte
 
